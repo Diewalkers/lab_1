@@ -1,0 +1,41 @@
+#fullwrap {
+background-color: blue;
+padding: 10px;
+}
+
+#header{
+background-color:green;
+min-height: 100px;
+
+}
+
+#wrap{
+padding: 10px;
+margin: 10px;
+min-height: 670px;
+background-color: red;
+}
+
+#main{
+background-color:#00C0C0;
+float:left;
+width: 50%;
+min-height:650px;
+padding: 10px;
+
+}
+
+#sidebar{
+background-color:#FFFF00;
+float:right;
+width: 40%;
+min-height:650px;
+padding: 10px;
+
+}
+#footer{
+background-color:#FFC0FF;
+min-height: 100px;
+clear: both;
+padding: 10px;
+}
